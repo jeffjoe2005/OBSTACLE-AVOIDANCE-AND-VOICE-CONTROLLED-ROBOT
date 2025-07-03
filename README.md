@@ -18,7 +18,7 @@ This project implements a 3-mode robot: obstacle avoidance, Bluetooth control, a
 ![robot](images/robot-photo.jpg)
 
 ## 📁 Project Structure
-- `code/` → Arduino Code
+- (https://github.com/jeffjoe2005/OBSTACLE-AVOIDANCE-AND-VOICE-CONTROLLED-ROBOT/tree/main/code) → Arduino Code
 - `circuits/` → Circuit diagrams and PCB layout
 - `docs/` → Project documentation and report
 - `images/` → Real-life project photos
